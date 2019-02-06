@@ -1,0 +1,10 @@
+.bloc_projet h1
+{    /* CSS STYLE */ 
+    font-family: 'Playfair Display', serif ; font-style: italic; 
+    font-size: 6rem;  color:#35A9EC; text-align: center;  
+    /* CSS POSITION */    
+    margin-top: 2%; margin-bottom: 2%; }
+
+.rectangle 
+{   width:100%; height: 4rem;  background: #1E1E1E; 
+    margin-bottom:  0.1rem; margin: 1% 0; }

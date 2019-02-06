@@ -1,0 +1,33 @@
+/********************************************************/
+/*                 BLOC qui_suis_je                    */   
+/******************************************************/
+.container_open_doors
+{  width: 100%; display: flex; flex-direction: row; background-color: #1E1E1E; margin: 0; }
+
+.container_open_doors img
+{   width: 50%; height: 50%; }
+
+#box
+{   width: 50%;height: 50%; }
+#h1
+{
+    font-family: 'Playfair Display', serif;
+    font-size: 3.4rem; 
+    font-style: italic;
+    color:#35A9EC;
+    margin-top: 25%;
+    text-align: center;
+    padding: 0 10%;    text-shadow: 1px 1px 1px rgb(0,0,0,0.5);
+
+}
+
+#p
+{
+    margin: 10% 15%;
+    color: whitesmoke;
+    font-family: 'open extra sans bold', sans-serif;
+    font-size: 1.4rem;
+    margin: 55px;
+    text-align: center;
+}
+

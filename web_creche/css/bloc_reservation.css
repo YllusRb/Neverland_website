@@ -1,0 +1,18 @@
+.container_reservation
+{   background-color: #1E1E1E; }
+
+.container_reservation h1
+{   font-family: 'Playfair Display', serif; font-size: 3.4rem; 
+    font-style: italic; color:#35A9EC; text-align: center;
+    padding: 0 20%; padding-top:  10%; padding-bottom: 5%;
+    text-shadow: 1px 1px 1px rgb(0,0,0,0.5); background-color: #1E1E1E }
+
+.container_reservation p
+    /* CSS Text */
+{   text-decoration: none; color: whitesmoke; 
+    font-family: 'Poppins', sans-serif; font-size: 1rem;    
+    text-shadow: 1px 1px 1px rgb(0,0,0,0.5);
+    /* CSS Position */
+    text-align : center; display : block; padding-bottom: 6%; }
+
+ 
